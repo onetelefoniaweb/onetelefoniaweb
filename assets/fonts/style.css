@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'TelefonicaCap-Regular';
+   font-display: swap;
+   src: url('TelefonicaCap-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'Telefonica-Regular';
+   font-display: swap;
+   src: url('Telefonica-Regular/font.ttf');
+}
